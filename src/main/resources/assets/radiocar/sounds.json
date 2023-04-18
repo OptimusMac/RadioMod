@@ -1,0 +1,5 @@
+{
+      "music.bg": { "sounds": [
+	{ "name": "radiocar:music/radiance", "stream": true, "volume": 0.25 }
+  ] }
+}
